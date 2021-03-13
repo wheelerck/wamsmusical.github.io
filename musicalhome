@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Neucha&display=swap" rel="stylesheet">
+        <meta charset="utf-8">
+        <title>The WAMS Musical</title>
+           <link rel="stylesheet" href="musical-home-css.css">
+        <script type="text/javascript" src="declarativeToggle.js"></script>
+        <script type="text/javascript" src="jquery.js"></script>
+    </head>
+    
+    <body>
+        <header>
+            <section>
+                <h1 div class="page-title">🎵The WAMS Musical🎵</h1>
+                <nav class="site-nav">
+                <ul class="group">
+     <li><a href="muscial-ad-home.html">The WAMS Musical</a></li>           
+     <li><a href="meet-the-faculty.html">Meet the Faculty</a></li>
+     <li><a href="tryouts.html">Tryouts-How They Work</a></li>
+     <li><a href="practices.html">Practices</a></li>
+     <li><a href="tech-rehearsals.html">Tech Rehearsals</a></li>
+     <li><a href="performances.html">Performances</a></li>
+     <li><a href="helpful-info.html">Helpful Information</a></li>
+            </ul>
+                </nav>
+                <br><br><br>
+                
+            </section>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+        </header>
+        
+            <aside div class="sidebar">
+                <p>Waynesboro Area Middle School(WAMS) is a music-oriented school. They offer band, chorus, musicals, and other extra-curriculars for music-lovers. WAMS has incredible staff members that encourage students' interest in the arts. They have had a yearly musical since 2018. Both School House Rock! Jr. and Madagascar Jr.: A Musical Adventure have been performed. The stage crew is completely student-run, so there is always something for everyone.</p>
+            <p div class="description">
+                The WAMS Musical was one of the greatest experiences of my life. It can be yours, too. Throughout this website, I have included information about how the musical works, how you can try out, and the people that make this musical possible.</p>
+              <a div class="next-link" href="meet-the-faculty.html">Meet the Faculty</a>  </aside>
+        <div class="main-area">
+        <video controls>
+            <source src="Recovered files from Google Drive/m3-actual-final.mp4" type="video/mp4">
+            Your web browser is outdated and does not support HTML video. Please consider <a href="http://browsehappy.com/">updating</a>.
+        </video>
+            <img div class="auditorium" src="Recovered files from Google Drive/IMG_1204.JPG" alt="A picture of the WAMS stage from auditorium view">
+            <img div class="auditorium-2" src="Recovered files from Google Drive/IMG_1205.JPG" alt="A picture of the WAMS auditorium from stage view">
+        </div>
+        
+    </body>
+</html> 
